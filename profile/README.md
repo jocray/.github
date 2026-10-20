@@ -4,7 +4,7 @@
 
 ***
 
-<h3 align="center">Happy Digital Life :)</h3>
+<h3 align="center">Happy Media :)</h3>
 
 <p align="center">
   <a href="https://t.me/datekt">
@@ -12,9 +12,6 @@
   </a>
   <a href="https://tiktok.com/@da.tekt">
     <img src="https://img.shields.io/badge/TikTok-FE2C55?style=flat&logo=tiktok&logoColor=white" alt="TikTok">
-  </a>
-  <a href="https://discord.gg/datekt">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord">
   </a>
   <a href="https://datekt.su">
     <img src="https://img.shields.io/badge/datekt.su-4285F4?style=flat&logo=google-chrome&logoColor=white" alt="Website">

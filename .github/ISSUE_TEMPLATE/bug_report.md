@@ -1,24 +1,32 @@
 ---
-name: 🐛 Репорт о баге / Bug Report
-about: Сообщите об ошибке в наших цифровых ассетах, шрифтах или графике
-title: '[BUG] Краткое описание проблемы'
-labels: bug
-assignees: ruslandreev
+name: Bug Report
+about: Report an issue with assets (e.g., broken font, incorrect logo file, rendering issue).
+title: '[Bug] '
+labels: ['bug', 'asset-issue']
+assignees: ''
 ---
 
-**Опишите ошибку**
-Четкое и краткое описание того, в чем заключается баг (например: "В шрифте Datekt-Fonts отсутствует символ @", или "Обои Wallpapers 4K обрезаются на экранах 16:10").
+### Describe the Bug
+A clear and concise description of what the issue is (e.g., specific font characters not rendering correctly, asset artifacting).
 
-**Как воспроизвести проблему**
-1. Открыть файл...
-2. Использовать в приложении...
-3. Увидеть ошибку...
+### Which asset is affected?
+- [ ] Typography / Fonts (`fonts/`)
+- [ ] Logotypes / Symbols (`logotype/`)
+- [ ] Design Tokens / Colors (`colors/`)
+- [ ] Other (please specify)
 
-**Ожидаемое поведение**
-Опишите, как элемент должен выглядеть или работать на самом деле.
+### Environment Details
+- **Operating System:** [e.g., Windows 11, macOS, iOS]
+- **Software / Platform:** [e.g., Photoshop, Figma, Web Browser, OBS Studio]
+- **Language / Locale:** [e.g., English, Russian]
 
-**Скриншоты / Изображения**
-Если возможно, добавьте скриншоты или файлы, демонстрирующие проблему (просто перетащите их сюда мышкой).
+### Steps to Reproduce
+1. Go to '...'
+2. Open/Apply asset '...'
+3. See error
 
-**Дополнительная информация**
-Ваша операционная система, версия ассета или графический редактор, в котором возникла проблема.
+### Expected Behavior
+A clear and concise description of what you expected to happen.
+
+### Visual Proof
+If applicable, add screenshots or videos to help explain your problem.

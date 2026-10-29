@@ -1,69 +1,19 @@
-# Security Policy
+# Security Policy & Community Guidelines
 
-## Vulnerability Reporting
+## Security Policy
 
-The **Datekt Consortium** team highly values the security of our users
-and infrastructure. If you discover a vulnerability in our infrastructure,
-on the **datekt.su** website, in social networks, or in software
-that we distribute, please report it immediately.
+### Reporting a Vulnerability
+We take the security of our assets and infrastructure seriously. If you discover any security vulnerability or unauthorized use of our digital assets, please do not open a public issue. 
 
-### How to Report a Vulnerability
+Instead, report it privately by submitting a report through our official feedback form at **jocray.onrender.com/feedback** (or via our official support channels at [dalink.to/jocray](https://dalink.to/jocray)). We will acknowledge your report and work to resolve the issue promptly.
 
-1. **Via the Issues tab on GitHub.** Open the Issues section in the
-   relevant repository of the [Datekt Consortium
-   organization](https://github.com/datekt) and describe the discovered
-   issue with the label `security`.
-2. **Via the official website.** Leave a message in the contact form on
-   the page **https://datekt.su**.
+## Community Guidelines
 
-In your report, please include:
+JOCRAY Media is dedicated to providing a safe, welcoming, and inclusive environment for everyone in the gaming and esports community. 
 
-* Description of the vulnerability (what exactly is wrong);
-* Steps to reproduce it;
-* Potential impact and severity level;
-* Your contact details for follow-up (Telegram/Discord nickname or email).
+### Our Expectations
+*   **Respect Identity:** Respect the JOCRAY brand guidelines and licensing agreements when using our assets. Do not use our brand to mislead users or misrepresent ownership.
+*   **Zero Tolerance for Hate:** Do not use JOCRAY assets in connection with any defamatory, hateful, unlawful, or harmful content.
+*   **Fair Play:** Support community tournaments and gaming events in a spirit of fair competition and mutual respect.
 
-### Process Description
-
-1. **Registration.** We acknowledge receipt of your report within
-   24–48 hours on business days from 07:00 to 19:00 (12 hours) Moscow Time.
-2. **Analysis.** The technical team verifies and classifies the
-   vulnerability using the CVSS scale.
-3. **Remediation.** We promptly work on remediating the
-   vulnerability and internally testing the fix.
-4. **Notification.** When the fix is ready, we publish information about
-   the vulnerability and recommend that users update.
-5. **Acknowledgement.** With your permission, we list your nickname in the
-   security acknowledgements.
-
-## Reporting Fake Brand Channels
-
-If you discover channels, chats, or accounts on social networks
-(Telegram, TikTok, Discord, YouTube, etc.) that impersonate the
-official resources of **Datekt Consortium**, please report it:
-
-1. Via the Issues section in the relevant repository of the
-   [Datekt Consortium organization](https://github.com/datekt) with the
-   label `impersonation`;
-2. Via the feedback form on the website **https://datekt.su**.
-
-Please include:
-
-* Link to the fake channel or account;
-* Evidence (screenshots, quotes) of impersonation of genuine content;
-* Brief description of the violations.
-
-We immediately review the information and, if necessary:
-
-* File an official complaint about the fake account with the relevant
-  platform (Telegram, TikTok, Discord, etc.);
-* Publish a warning in our official channels.
-
-## Emergency Contacts
-
-* **Official website:** https://datekt.su
-* **Telegram:** [@datekt](https://t.me/datekt)
-
----
-
-*© 2026 Datekt Consortium. All rights reserved.*
+Thank you for helping us keep the JOCRAY community safe and bright!

@@ -1,40 +1,18 @@
-# Datekt Consortium • Brand Assets
+# JOCRAY Brand Logotypes
 
-Welcome to the official repository for brand assets and media materials of the **Datekt Consortium**. This repository contains our official logotypes, visual elements, and legal guidelines for their usage.
+This folder contains the official logotypes and symbols for the JOCRAY media outlet. These assets represent our brand identity across live streams, tournaments, and social media platforms.
 
-## 📦 Directory Structure
+## Visual Showcase
 
-* `datekt_logotype/datekt-avatarlogo, datekt_logotype/datekt-logo` — Official high-resolution logo files (JPG, PNG).
-* `LICENSE` — Legal license defining permitted and prohibited ways to use our logo.
+| Standalone Symbol | Wordmark Text | Combined Logotype |
+| :---: | :---: | :---: |
+| <img src="jocray_logotype/jocray_symbol.png" width="150" alt="JOCRAY Symbol"> | <img src="jocray_logotype/jocray_text.png" width="200" alt="JOCRAY Text"> | <img src="jocray_logotype/jocray_symbol_text.png" width="250" alt="JOCRAY Combined"> |
 
----
+## Asset Varieties
 
-## ⚖️ Legal Guidelines
+- **Symbol (`jocray_symbol.png`)**: Our standalone brand icon, perfect for profile pictures, favicons, and compact spaces.
+- **Text (`jocray_text.png`)**: The stylized "JOCRAY" wordmark used when the brand name needs to be clean and prominent.
+- **Combined (`jocray_symbol_text.png`)**: The primary combination of our symbol and text, recommended for banners, official documents, and main stream overlays.
 
-Before downloading or using any materials from this repository, you are required to review and agree to our official policies:
-
-* 📜 **[Logo Usage License](LICENSE)** — Explains how you can use our logo for news, reviews, and community fan-art, as well as strict restrictions on commercial use and modifications.
-  
----
-
-## 🚀 Quick Guidelines
-
-### 🟢 Permitted:
-* Using the logo in articles, news materials, and fair technical reviews.
-* Creating non-commercial fan-art or community content.
-* Linking to the official resources of the Datekt Consortium.
-
-### 🔴 Strictly Prohibited:
-* Using brand assets on physical merchandise or in commercial advertising without prior written consent.
-* Modifying original colors, stretching, rotating, or altering the design of the logo.
-* Creating a false impression of an official partnership, endorsement, or sponsorship by the Datekt Consortium where none exists.
-
----
-
-## 📬 Contacts and Commercial Licensing
-
-If you require a special commercial license, higher resolution source files, or wish to collaborate with us, please contact us through our official media channels or open an Issue in this repository.
-
-***
-
-*© 2026 Datekt Consortium. All rights reserved.*
+## Usage and Licensing
+All logo assets in this folder are protected. Usage is strictly governed by the End-User License Agreement found in the [LICENSE](LICENSE) file.

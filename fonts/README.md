@@ -1,40 +1,24 @@
-# Datekt Font
+# JOCRAY Brand Typography
 
-An open-source typeface family developed by the **Datekt Consortium**. Designed to perform perfectly in both headers and body text.
+Typography plays a critical role in the JOCRAY visual identity. This directory contains our custom/signature typeface family used across all digital products, overlays, and marketing materials.
 
-## Previews
+## Font Family: Jocray
 
-### Regular / Bold Style
+We utilize two primary weights to maintain a clean yet impactful visual hierarchy:
+- **Jocray Regular**: Optimized for readability in text blocks, descriptions, and user interfaces.
+- **Jocray Bold**: Designed for headlines, tournament announcements, stream overlays, and high-impact messaging.
 
-| Latin | Cyrillic |
-| :---: | :---: |
-| ![Latin Bold Preview](datekt_illustration/Datekt-Black_en.png) | ![Cyrillic Bold Preview](datekt_illustration/Datekt-Black_ru.png) |
+## Visual Showcases
 
-### Thin / Light Style
+| Font Weight / Style | English Version (EN) | Russian Version (RU) |
+| :--- | :---: | :---: |
+| **Jocray Bold** | <img src="jocray_illustration/Bold-EN.png" width="300" alt="Bold EN"> | <img src="jocray_illustration/Bold-RU.png" width="300" alt="Bold RU"> |
+| **Jocray Regular** | <img src="jocray_illustration/Regular-EN.png" width="300" alt="Regular EN"> | <img src="jocray_illustration/Regular-RU.png" width="300" alt="Regular RU"> |
 
-| Latin | Cyrillic |
-| :---: | :---: |
-| ![Latin Thin Preview](datekt_illustration/Datekt-Regular_en.png) | ![Cyrillic Thin Preview](datekt_illustration/Datekt-Regular_ru.png) |
+## Directory Contents
 
-## Formats and Styles
+- `jocray_fonts/`: Contains the official `.ttf` (TrueType Font) files.
+- `jocray_illustration/`: Includes visual previews and examples of the typography in action for both English (EN) and Russian (RU) locales.
 
-The font family includes two fully compiled TrueType styles:
-
-* `Datekt-Regular.ttf`
-* `Datekt-Black.ttf`
-
-It features full **Cyrillic** support (including Bulgarian and Serbian localized alternate forms) and an extended Latin character set, along with OpenType features (oldstyle figures, fractions, and indices).
-
-## Installation
-
-1. Download the `.ttf` files from the [datekt_fonts](datekt_fonts) folder.
-2. Open the files and click **Install** on your operating system (Windows / macOS / Linux).
-
-## License
-
-This Font Software is licensed under the **SIL Open Font License, Version 1.1**.
-For more details, see the [LICENSE](LICENSE) file.
-
----
-
-*© 2026 Datekt Consortium. All rights reserved.*
+## Licensing
+Please refer to the [LICENSE](LICENSE) file in this directory for Open Font License (OFL) details before using these assets.

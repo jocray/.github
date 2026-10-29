@@ -1,20 +1,14 @@
-# 🎨 Brand Palette / Brand Colors
+# JOCRAY Brand Colors
 
-Official digital colors of the **Datekt Consortium**. Use these parameters to maintain a consistent visual style across all our products, websites, and media resources.
+This directory contains the official color palette for the JOCRAY brand. Our visual identity relies on distinct shades that reflect our vibrant gaming and media community.
 
-## 🌟 Brand Colors
+## Palette Overview
 
-| Color Name | Visualization | HEX | RGB | Purpose |
-| :--- | :---: | :--- | :--- | :--- |
-| **Datekt Blue** | 🟦 | `#4b7ad6` | `75,122,214` | - |
-| **Datekt Red** | 🟥 | `#e34242` | `227,66,66` | - |
+- **JOCRAY Lilac (`#e9d5ff`)**: A light, energetic accent color used for highlights, backgrounds, and contrast.
+- **JOCRAY Amethyst (`#6b21a8`)**: Our deep primary brand color, representing creativity, passion, and depth.
 
-## 🚀 Accent Color
+## Design Tokens
 
-| Color Name | Visualization | HEX | RGB | Purpose |
-| :--- | :---: | :--- | :--- | :--- |
-| **Datekt Green (Yellow-Green)** | 🟩 | `#65d833` | `101,216,51` | Main accent, buttons, active elements, icons |
-
----
-## 📦 Resources for Development and Design
-* **For Web:** Production-ready design tokens are available in the `tokens/` folder.
+We provide ready-to-use color tokens for integration across various platforms:
+- [colors.css](tokens/colors.css) — CSS variables for web environments.
+- [colors.json](tokens/colors.json) — JSON format suitable for design tools and tailwind configurations.

@@ -10,7 +10,7 @@ Welcome to the official platform of the independent digital media outlet **JOCRA
 
 <p align="center">
   <a href="https://jocray.onrender.com">
-    <img src="https://img.shields.io/badge/jocray.onrender.com-4285F4?style=flat&logo=google-chrome&logoColor=white" alt="Website">
+    <img src="https://img.shields.io/badge/JOCRAY-4285F4?style=flat&logo=google-chrome&logoColor=white" alt="Website">
   </a>
 </p>
 

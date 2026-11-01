@@ -6,10 +6,10 @@ Welcome to the official platform of the independent digital media outlet **JOCRA
   <img src="images/jocray_banner.png" alt="JOCRAY" width="100%">
 </p>
 
-***
+---
 
 <a href="https://jocray.ru">
-  <img src="https://img.shields.io/badge/JOCRAY-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="JOCRAY Website">
+  <img src="https://img.shields.io/badge/website-JOCRAY-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="JOCRAY Website">
 </a>
 
 ## Contact

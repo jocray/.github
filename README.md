@@ -12,5 +12,17 @@ Explore the core components of the JOCRAY brand:
 *   [📝 Name](name/) — The philosophy, concept, and styling guidelines behind the JOCRAY name.
 *   [👤 Profile](profile/) — Public platform assets, metadata, and core community summaries.
 
+## Licensing
+
+This repository does not use a single top-level license. Each subdirectory has
+its own terms:
+
+- [`colors/LICENSE`](colors/LICENSE) — EULA for the brand palette and design tokens
+- [`fonts/LICENSE`](fonts/LICENSE) — SIL Open Font License 1.1
+- [`logotype/LICENSE`](logotype/LICENSE) — EULA for logotypes and symbols
+- [`name/LICENSE`](name/LICENSE) — EULA for the JOCRAY name and wordmark
+
+For commercial use or partnership inquiries, see [profile/README.md](profile/README.md).
+
 ---
 *For more information about our community platform and live-streamed gaming tournaments, check out the core profile in [profile/README.md](profile/README.md).*

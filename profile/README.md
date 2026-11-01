@@ -1,18 +1,22 @@
 ## JOCRAY
 
-Welcome to the official platform of the independent digital media outlet **JOCRAY**. We operate within the gaming space, creating experiences that bring joy—not just to us, but to gamers everywhere—by hosting live-streamed gaming tournaments. Join our community, and let’s make the world of gaming even brighter together!
+Welcome to the official platform of the independent digital media outlet **JOCRAY**. We operate within the gaming industry, creating projects that bring joy—not just to us, but to gamers all around the world. Join our community, and let’s make the world of gaming even brighter together!
 
 <p align="center">
-  <img src="images/jocray_banner.png" alt="JOCRAY Banner" width="100%">
+  <img src="images/jocray_banner.png" alt="JOCRAY" width="100%">
 </p>
 
 ***
 
 <p align="center">
   <a href="https://jocray.onrender.com">
-    <img src="https://img.shields.io/badge/JOCRAY-4285F4?style=flat&logo=google-chrome&logoColor=white" alt="Website">
+    <img src="https://img.shields.io/badge/Website-JOCRAY-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="JOCRAY Website">
   </a>
 </p>
+
+## Contact
+
+For inquiries regarding collaboration, media relations, or partnerships, please use the feedback section on our website: [FEEDBACK](https://jocray.ru/feedback)
 
 ---
 *© 2026 JOCRAY Media. All rights reserved.*

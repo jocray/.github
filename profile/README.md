@@ -8,13 +8,15 @@ Welcome to the official platform of the independent digital media outlet **JOCRA
 
 ---
 
-<a href="https://jocray.ru">
-  <img src="https://img.shields.io/badge/website-JOCRAY-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="JOCRAY Website">
-</a>
+<p align="center">
+  <a href="https://jocray.ru">
+    <img src="https://img.shields.io/badge/website-JOCRAY-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="JOCRAY Website">
+  </a>
+</p>
 
 ## Contact
 
-For inquiries regarding collaboration, media relations, or partnerships, please use the feedback section on our website: [FEEDBACK](https://jocray.ru/feedback)
+For collaboration, media relations and partnerships: [feedback form](https://jocray.ru/feedback)
 
 ---
 *© 2026 JOCRAY Media. All rights reserved.*

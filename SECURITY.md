@@ -1,19 +1,27 @@
-# Security Policy & Community Guidelines
+# Security Policy
 
-## Security Policy
+## Reporting a Vulnerability
 
-### Reporting a Vulnerability
-We take the security of our assets and infrastructure seriously. If you discover any security vulnerability or unauthorized use of our digital assets, please do not open a public issue. 
+We take the security of our assets and infrastructure seriously. If you
+discover any security vulnerability or unauthorized use of our digital assets,
+please do not open a public issue.
 
-Instead, report it privately by submitting a report through our official feedback form at **jocray.onrender.com/feedback** (or via our official support channels at [dalink.to/jocray](https://dalink.to/jocray)). We will acknowledge your report and work to resolve the issue promptly.
+Instead, report it privately by submitting a report through our official
+feedback form at **https://jocray.ru/feedback** (or via our official support
+channels at [dalink.to/jocray](https://dalink.to/jocray)). We will acknowledge
+your report and work to resolve the issue promptly.
 
-## Community Guidelines
+## Scope
 
-JOCRAY Media is dedicated to providing a safe, welcoming, and inclusive environment for everyone in the gaming and esports community. 
+This policy covers:
 
-### Our Expectations
-*   **Respect Identity:** Respect the JOCRAY brand guidelines and licensing agreements when using our assets. Do not use our brand to mislead users or misrepresent ownership.
-*   **Zero Tolerance for Hate:** Do not use JOCRAY assets in connection with any defamatory, hateful, unlawful, or harmful content.
-*   **Fair Play:** Support community tournaments and gaming events in a spirit of fair competition and mutual respect.
+* The JOCRAY website and its infrastructure.
+* Unauthorized or misleading use of JOCRAY brand assets (see
+  [logotype/LICENSE](logotype/LICENSE) and [name/LICENSE](name/LICENSE)).
+* Security issues in this repository (e.g., accidentally committed secrets,
+  vulnerable dependencies).
+
+For general community behavior concerns, please refer to
+[CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
 
 Thank you for helping us keep the JOCRAY community safe and bright!

@@ -12,8 +12,8 @@ We utilize two primary weights to maintain a clean yet impactful visual hierarch
 
 | Font Weight / Style | English Version (EN) | Russian Version (RU) |
 | :--- | :---: | :---: |
-| **JOCRAY Bold** | <img src="JOCRAY_illustration/Bold-EN.png" width="300" alt="Bold EN"> | <img src="JOCRAY_illustration/Bold-RU.png" width="300" alt="Bold RU"> |
-| **JOCRAY Regular** | <img src="JOCRAY_illustration/Regular-EN.png" width="300" alt="Regular EN"> | <img src="JOCRAY_illustration/Regular-RU.png" width="300" alt="Regular RU"> |
+| **JOCRAY Bold** | <img src="JOCRAY_illustration/JOCRAY-Bold_EN.png" width="300" alt="Bold EN"> | <img src="JOCRAY_illustration/JOCRAY-Bold_RU.png" width="300" alt="Bold RU"> |
+| **JOCRAY Regular** | <img src="JOCRAY_illustration/JOCRAY-Regular_EN.png" width="300" alt="Regular EN"> | <img src="JOCRAY_illustration/JOCRAY-Regular_RU.png" width="300" alt="Regular RU"> |
 
 ## Directory Contents
 

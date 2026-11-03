@@ -22,16 +22,17 @@ You strictly agree NOT to:
 - Use the Assets for any commercial purpose, monetization, merchandise, or paid
   advertising without prior written consent from JOCRAY Media.
 - Register or attempt to register the palette, its token names (including
-  "JOCRAY Lilac" and "JOCRAY Amethyst"), or any confusingly similar combination
+  "JOCRAY Green" and "JOCRAY Black"), or any confusingly similar combination
   as a trademark, brand, or product identity.
 - Present the Assets as your own brand identity or imply endorsement,
   partnership, sponsorship, or affiliation with JOCRAY Media where none exists.
 - Use the Assets in connection with any defamatory, unlawful, or harmful content.
 
 3. ACCESSIBILITY NOTICE
-The color `--jocray-lilac` (#e9d5ff) does not meet WCAG AA contrast requirements
-for text on white backgrounds. It is intended for use as a background, highlight,
-or non-essential accent only.
+JOCRAY Green (#107c10) meets WCAG AA contrast requirements for normal text on
+white backgrounds. On JOCRAY Black (#101010) it should be used only for large
+text or non-essential accents unless contrast is separately verified. JOCRAY
+Black (#101010) is intended for high-contrast text and dark surfaces.
 
 4. OWNERSHIP
 All intellectual property rights, titles, and interests in and to the Assets

@@ -8,17 +8,20 @@ tournaments, and social media platforms.
 
 | Standalone Symbol | Wordmark Text | Combined Logotype |
 | :---: | :---: | :---: |
-| <img src="JOCRAY_logotype/JOCRAY_symbol.png" width="150" alt="JOCRAY Symbol"> | <img src="JOCRAY_logotype/JOCRAY_text.png" width="200" alt="JOCRAY Text"> | <img src="JOCRAY_logotype/JOCRAY_symbol_text.png" width="250" alt="JOCRAY Combined"> |
+| <img src="JOCRAY_logotype/png/jocray_symbol.png" width="150" alt="JOCRAY Symbol"> | <img src="JOCRAY_logotype/png/jocray_text.png" width="200" alt="JOCRAY Text"> | <img src="JOCRAY_logotype/png/jocray_symbol_text.png" width="250" alt="JOCRAY Combined"> |
 
 ## Asset Varieties
 
-- **Symbol (`JOCRAY_symbol.png`)**: Our standalone brand icon, perfect for
+- **Symbol (`jocray_symbol.png`)**: Our standalone brand icon, perfect for
   profile pictures, favicons, and compact spaces.
-- **Text (`JOCRAY_text.png`)**: The stylized "JOCRAY" wordmark used when the
+- **Text (`jocray_text.png`)**: The stylized "JOCRAY" wordmark used when the
   brand name needs to be clean and prominent.
-- **Combined (`JOCRAY_symbol_text.png`)**: The primary combination of our
+- **Combined (`jocray_symbol_text.png`)**: The primary combination of our
   symbol and text, recommended for banners, official documents, and main
   stream overlays.
+
+All varieties are available in the `eps/`, `pdf/`, `png/`, and `svg/`
+subdirectories of `JOCRAY_logotype/`.
 
 ## Usage Rules
 
@@ -43,11 +46,12 @@ Below these sizes the logotype loses legibility and must not be used.
 ### Approved Backgrounds
 
 - White (`#ffffff`)
-- JOCRAY Amethyst (`#6b21a8`)
-- JOCRAY Lilac (`#e9d5ff`)
+- JOCRAY Green (`#107c10`)
+- JOCRAY Black (`#101010`)
 
 Do not place logotypes on busy imagery or on backgrounds with insufficient
-contrast.
+contrast. Do not place a logotype on a background of the same color as the
+logotype element itself.
 
 ### Prohibited Modifications
 

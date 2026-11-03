@@ -6,7 +6,7 @@ Welcome to the central repository for **JOCRAY** brand assets, design tokens, an
 
 Explore the core components of the JOCRAY brand:
 
-*   [🎨 Colors](colors/) — Official brand palette, hex codes, CSS/JSON design tokens.
+*   [🎨 Colors](colors/) — Official brand palette, HEX values, and design tokens for CSS, JSON, Sass, SCSS, Less, Stylus, XML, YAML, and Tailwind.
 *   [🔤 Fonts](fonts/) — Signature typography files (`.ttf`) and localized visual showcases.
 *   [🏷️ Logotype](logotype/) — High-resolution brand symbols, wordmarks, and asset licenses.
 *   [📝 Name](name/) — The philosophy, concept, and styling guidelines behind the JOCRAY name.

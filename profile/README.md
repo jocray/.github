@@ -4,7 +4,6 @@ Welcome to the official platform of the independent digital media outlet **JOCRA
 
 ***
 ## GG WP — just beginning
-***
 
 <p align="center">
   <img src="image/jocray_banner_en.png" alt="JOCRAY" width="100%">

@@ -4,9 +4,9 @@ Typography plays a critical role in the JOCRAY visual identity. This directory c
 
 ## Font Family: JOCRAY
 
-We utilize two primary weights to maintain a clean yet impactful visual hierarchy:
-- **JOCRAY Regular**: Optimized for readability in text blocks, descriptions, and user interfaces.
-- **JOCRAY Bold**: Designed for headlines, tournament announcements, stream overlays, and high-impact messaging.
+We use two primary typefaces to create a clear yet expressive visual hierarchy:
+- **JOCRAY Regular**: optimized for high readability in text blocks, descriptions, and user interfaces.
+- **JOCRAY Bold**: designed for headings and for presenting key information that requires special attention.
 
 ## Visual Showcases
 

@@ -23,6 +23,3 @@ its own terms:
 - [`name/LICENSE`](name/LICENSE) — EULA for the JOCRAY name and wordmark
 
 For commercial use or partnership inquiries, see [profile/README.md](profile/README.md).
-
----
-*For more information about our community platform and live-streamed gaming tournaments, check out the core profile in [profile/README.md](profile/README.md).*

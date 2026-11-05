@@ -1,8 +1,6 @@
 # JOCRAY Brand Logotypes
 
-This folder contains the official logotypes and symbols for the JOCRAY media
-outlet. These assets represent our brand identity across live streams,
-tournaments, and social media platforms.
+This folder contains the official logos and brand identity elements for the media resource JOCRAY. These materials define the visual appearance of our brand on social media.
 
 ## Visual Showcase
 
